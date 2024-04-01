@@ -1,3 +1,3 @@
-# Practice: E2E Tests with Cypress.
+# Practice: Documentation with Storybook.
 
-This practice exemplifies how to implement end-to-end tests using Cypress in a React application.
+This practice exemplifies how to implement front-end documentation using Storybook.
